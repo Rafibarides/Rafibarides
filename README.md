@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Rafibarides/Rafibarides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm Rafi 👋
+
+🎵 Music Producer | 🎨 Designer | 💻 Full-Stack Developer
+
+I'm passionate about building creative digital experiences, from sound to code. Check out my projects below and feel free to connect with me!
+

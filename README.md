@@ -29,18 +29,16 @@ I'm passionate about building creative digital experiences, from sound to code. 
 ### 📊 GitHub Stats
 ![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
 ### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)
 
 ### 🔥 Recent Activity
 - 🎉 Created a new project `RiffRabit`
-- 💻 Working on my new `bossa track - Gen Z`
+- 💻 Working on my new `bossa track`
 - 🚀 Published an npm package `your-package-name`
 
 ### 🌍 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/rafibarides)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafibarides/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafibarides)
 
 

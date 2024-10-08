@@ -35,7 +35,6 @@ I'm passionate about building creative digital experiences, from sound to code. 
 ### 🔥 Recent Activity
 - 🎉 Created a new project `RiffRabit`
 - 💻 Working on my new `bossa track`
-- 🚀 Published an npm package `your-package-name`
 
 ### 🌍 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafibarides/)

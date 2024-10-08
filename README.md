@@ -27,10 +27,10 @@ I'm passionate about building creative digital experiences, from sound to code. 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### 📊 GitHub Stats
-![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafibarides&show_icons=true&theme=radical)
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=Rafibarides&theme=radical)
 
 ### 🔥 Recent Activity
 - 🎉 Created a new project `RiffRabit`

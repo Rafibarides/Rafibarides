@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Rafi 👋
 
-🎵 Music Producer | 🎨 Designer | 💻 Full-Stack Developer
+🎨 Product and UI/UX Designer | 💻 Full-Stack Developer
 
 I'm passionate about building creative digital experiences, from sound to code. Check out my projects below and feel free to connect with me!
 
@@ -33,8 +33,9 @@ I'm passionate about building creative digital experiences, from sound to code. 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Rafibarides&theme=radical)
 
 ### 🔥 Recent Activity
-- 🎉 Created a new project `RiffRabit`
-- 💻 Working on my new `bossa track`
+- 🎉 Created a new project `Arbiem`
+
+Arbiem.com [https://arbiem.com/]
 
 ### 🌍 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafibarides/)

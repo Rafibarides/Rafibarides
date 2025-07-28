@@ -29,13 +29,11 @@ I'm passionate about building creative digital experiences, from sound to code. 
 ### 📊 GitHub Stats
 ![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafibarides&show_icons=true&theme=radical)
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Rafibarides&theme=radical)
 
 ### 🔥 Recent Activity
 - 🎉 Created a new project `Arbiem`
 
-Arbiem.com [https://arbiem.com/]
+[Arbiem.com](https://arbiem.com/)
 
 ### 🌍 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafibarides/)
